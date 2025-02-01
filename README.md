@@ -1,1 +1,1 @@
-# birlikteguclukadinlar
+Kodluyoruz Hi-Kod Front-End atölyesi bitirme projesi grup çalışması.
